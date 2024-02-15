@@ -1,12 +1,11 @@
 # Aquapotager
 ### Collecte et visualisation de données environnementales par l'utilisation de micro-contrôleurs.
 
-Multiplication.R 
-Il multiplie 2 nombres.
+1. Multiplication.R
+⋅⋅⋅Il multiplie 2 nombres.
 
-Addition.R 
-Il additionne deux nombres a et b
+2. Addition.R 
+⋅⋅⋅Il additionne deux nombres a et b
 
-Soustraction.R 
-Il soustrait
-
+3. Soustraction.R 
+⋅⋅⋅Il soustrait
