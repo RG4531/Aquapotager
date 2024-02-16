@@ -18,8 +18,12 @@
             multi_vec=function(a)
             vec(a)
 
+#### 2. Multiplication2.R.
+
+            multi2=function(a,b)
+            a+b-a*b**a/b
       
-#### 2. Addition.R.
+#### 3. Addition.R.
    
          Il additionne deux nombres a et b
 #norme d'un vecteur
@@ -28,11 +32,11 @@ norme=function(a,b){
   return(resultat)
 }
 
-#### 3. Soustraction.R. (+Puissance)
+#### 4. Soustraction.R. (+Puissance)
    
                  Il soustrait, l'autre calcule la puissance b de a
          
-### 4.Division
+### 5.Division
 
         vision
 
