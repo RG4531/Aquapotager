@@ -19,6 +19,7 @@ Collecte et visualisation de données environnementales par l'utilisation de mic
    
          Il additionne deux nombres a et b
 
-#### 3. Soustraction.R.
+#### 3. Soustraction.R. (+Puissance)
    
-         Il soustrait
+         Il soustrait, l'autre calcule la puissance b de a
+
