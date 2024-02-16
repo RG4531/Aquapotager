@@ -5,13 +5,17 @@
    
     * Il multiplie 2 nombres
    
+            multiplication=function(a,b)
+            a*b
+    * Il multiplie 3 nombres
+   
             multiplication=function(a,b,c)
             a*b*c
-
-3. Addition.R.
+      
+2. Addition.R.
    
          Il additionne deux nombres a et b
 
-4. Soustraction.R.
+3. Soustraction.R.
    
          Il soustrait
