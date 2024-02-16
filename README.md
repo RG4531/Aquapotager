@@ -3,14 +3,15 @@
 
 1. Multiplication.R.
    
-    *Il multiplie 2 nombres
+    * Il multiplie 2 nombres
+   
          multiplication=function(a,b,c)
          a*b*c
 
-2. Addition.R.
+3. Addition.R.
    
          Il additionne deux nombres a et b
 
-3. Soustraction.R.
+4. Soustraction.R.
    
          Il soustrait
