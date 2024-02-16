@@ -34,7 +34,7 @@ norme=function(a,b){
          
 ### 4.Division
 
-        vision
+        vision (elle est vachement drole quand meme)
 
 
 
