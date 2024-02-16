@@ -41,5 +41,8 @@ norme=function(a,b){
 
         vision (elle est vachement drole quand meme)
 
-
+puissance=function(a,b) {
+  resultat=a**b
+  return(resultat)
+}
 
