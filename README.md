@@ -35,6 +35,7 @@ norme=function(a,b){
 #### 4. Soustraction.R. (+Puissance)
    
                  Il soustrait, l'autre calcule la puissance b de a
+         Pikachu c'est le meilleur pokemon, "PikaPika"
          
 ### 5.Division
 
