@@ -5,7 +5,7 @@
    
     Il multiplie 2 nombres
          multiplication=function(a,b,c)
-            a*b*c
+           a*b*c
 
 2. Addition.R.
    
