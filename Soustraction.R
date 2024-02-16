@@ -1,2 +1,7 @@
-soustraction=function(a,b)
-  a-b
+soustraction=function(a,b){
+  return(a-b)
+}
+  
+puissance=function(a,b){
+  return(a**b)
+}
