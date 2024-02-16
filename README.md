@@ -14,6 +14,12 @@ Collecte et visualisation de données environnementales par l'utilisation de mic
    
             multiplication=function(a,b,c)
             a*b*c
+            
+  * Lol
+            
+            multi_vec=function(a)
+            vec(a)
+
       
 #### 2. Addition.R.
    
