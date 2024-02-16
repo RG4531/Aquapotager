@@ -3,7 +3,7 @@
 
 1. Multiplication.R.
    
-   ####Il multiplie 2 nombres
+   #### Il multiplie 2 nombres
       multiplication=function(a,b,c)
       a*b*c
 
