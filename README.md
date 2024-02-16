@@ -3,12 +3,12 @@
 
 1. Multiplication.R.
    
-Il multiplie 2 nombres
+   Il multiplie 2 nombres
 
 2. Addition.R.
    
-Il additionne deux nombres a et b
+   Il additionne deux nombres a et b
 
 3. Soustraction.R.
    
-Il soustrait
+   Il soustrait
