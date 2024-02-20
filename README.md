@@ -5,6 +5,6 @@
 
 Fonctions accomplies par le produit : 
  
-	**Collecter** : par capteurs (température/humidité de l’air, luminosité, température du sol)
-	**Transférer** : émetteur, gateway, MQTT
-	**Visualiser** : InfluxDB
+**Collecter** : par capteurs (température/humidité de l’air, luminosité, température du sol)
+**Transférer** : émetteur, gateway, MQTT
+**Visualiser** : InfluxDB
