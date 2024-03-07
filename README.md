@@ -10,3 +10,23 @@
 **Transférer** : émetteur, gateway, MQTT
 
 **Visualiser** : InfluxDB
+
+Programmes Ardiuno
+------
+
+DHT22 = Programme pour le capteur de T° et humidité
+
+Veml7700 = Programme pour le capteur de luminosité
+
+LoRaWAN = Programme pour envoyer les données sur le LNS
+
+Programme Node-Red
+------
+
+Pour Node-Red on a :
+
+Pour InfluxDb
+------
+
+Pour InfluxDB on a :
+
