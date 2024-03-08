@@ -29,6 +29,7 @@ Pour Node-Red on a :
 - Un json permettant de transformer le texte qui est en json, en texte exploitable par influxdb
 - Une puce Debug pour vérifier le bon fonctionnement du flux.
 - un influx db out permettant d'envoyer les dnnées sur influxdb pour la représentatin graphique
+![image](https://github.com/RG4531/Aquapotager/assets/160113818/88b264b9-82c8-4cc9-bc82-2c1caf08bef5)
 
 Pour InfluxDb
 ------
