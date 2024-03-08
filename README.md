@@ -23,7 +23,12 @@ LoRaWAN = Programme pour envoyer les données sur le LNS
 Programme Node-Red
 ------
 
-Pour Node-Red on a :
+Pour Node-Red on a : 
+- Un mqqt in permettant la réceptin des données depuis le serveur de Paul Sabatier
+- Une fonction formater pour trier les informations pour récupérer seulement les informations de nos capteurs. De plus cette fonction récupère que la partie texte (c'est-à-dire les données) et pas les informations technque du serveur.
+- Un json permettant de transformer le texte qui est en json, en texte exploitable par influxdb
+- Une puce Debug pour vérifier le bon fonctionnement du flux.
+- un influx db out permettant d'envoyer les dnnées sur influxdb pour la représentatin graphique
 
 Pour InfluxDb
 ------
