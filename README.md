@@ -30,7 +30,8 @@ Pour Node-Red on a :
 - Une puce Debug pour vérifier le bon fonctionnement du flux.
 - un influx db out permettant d'envoyer les dnnées sur influxdb pour la représentatin graphique. Pour cela on créer un bucket permettant de stocker ces données.
   
-![image](https://github.com/RG4531/Aquapotager/assets/160113818/88b264b9-82c8-4cc9-bc82-2c1caf08bef5)
+![image](https://github.com/RG4531/Aquapotager/assets/160113818/d617a77d-3ab2-40ee-a4fb-4a8265b8f04a)
+
 
 Pour InfluxDb
 ------
@@ -39,3 +40,4 @@ Pour InfluxDB on a :
 - Le bucket avec toutes les données
 - Une interface graphique représentant les données.
 
+![image](https://github.com/RG4531/Aquapotager/assets/160113818/6db58d45-abaa-4e0b-addb-c1ccba135bf0)
