@@ -18,7 +18,9 @@ DHT22 = Programme pour le capteur de T° et humidité
 
 Veml7700 = Programme pour le capteur de luminosité
 
-LoRaWAN = Programme pour envoyer les données sur le LNS
+Temp_Hyg_Lum = Fusion des programmes DHT22 et Veml7700
+
+envoie_serveur = Programme pour envoyer les données sur le LNS
 
 Programme Node-Red
 ------
@@ -50,6 +52,6 @@ Pour InfluxDB on a :
 Pour Python
 ------
 
-Ecriture d'un programme permettant l'apparition d'une fenêtre tableau de bord sur laquelle s'affiche une alerte au cas ou des valeurs ne soient pas conformes aux seuils.
+- Ecriture d'un programme permettant l'apparition d'une fenêtre tableau de bord sur laquelle s'affiche une alerte au cas ou des valeurs ne soient pas conformes aux seuils.
 
 ![image](https://github.com/RG4531/Aquapotager/assets/160113818/b49b6d7f-22bb-43af-93ea-0c0c6d482af3)
