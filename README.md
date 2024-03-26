@@ -11,7 +11,8 @@
 
 **Visualiser** : InfluxDB
 
-"C:\Users\maxim\Documents\ENSAT\2A\S8\Cnum\Projet\Photo_montage.png"
+<img width="283" alt="image" src="https://github.com/RG4531/Aquapotager/assets/160114031/aee762b0-a040-4aa4-bf89-ebb5964862ec">
+
 
 Programmes Ardiuno
 ------
